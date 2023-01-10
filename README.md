@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Javascript Game project**
 
-- 🌱 I’m currently learning **NodeJS & ReactJS**
+- 🌱 I’m currently learning **Java(core)**
 
 - 💬 Ask me about **C and C++**
 
