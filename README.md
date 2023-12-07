@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **C and C++**
 
