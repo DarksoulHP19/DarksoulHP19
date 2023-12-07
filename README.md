@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoulhp19&label=Profile%20views&color=0e75b6&style=flat" alt="darksoulhp19" /> </p>
 
-- 🔭 I’m currently working on **Python web application project**
+- 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Django (python)**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 💬 Ask me about **C and C++**
 
