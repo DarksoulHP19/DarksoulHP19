@@ -35,12 +35,14 @@
         <img src="https://skillicons.dev/icons?i=nodejs"/>
         <img src="https://skillicons.dev/icons?i=express"/>
         <img src="https://skillicons.dev/icons?i=react"/>
+        <img src="https://skillicons.dev/icons?i=flask"/>
+        <img src="https://skillicons.dev/icons?i=fastapi"/>
         <img src="https://skillicons.dev/icons?i=tailwind"/>
         <img src="https://skillicons.dev/icons?i=next"/>
         <img src="https://skillicons.dev/icons?i=npm"/>
         <img src="https://skillicons.dev/icons?i=selenium"/>
         <img src="https://skillicons.dev/icons?i=vite"/>
-   </div>
+    </div>
   </div>
 </p>
 
@@ -55,6 +57,7 @@
     <img src="https://skillicons.dev/icons?i=linux" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=ansible" />
     <img src="https://skillicons.dev/icons?i=docker" />
