@@ -35,11 +35,12 @@
         <img src="https://skillicons.dev/icons?i=nodejs"/>
         <img src="https://skillicons.dev/icons?i=express"/>
         <img src="https://skillicons.dev/icons?i=react"/>
-        <img src="https://skillicons.dev/icons?i=flask"/>
-        <img src="https://skillicons.dev/icons?i=fastapi"/>
         <img src="https://skillicons.dev/icons?i=tailwind"/>
         <img src="https://skillicons.dev/icons?i=next"/>
         <img src="https://skillicons.dev/icons?i=npm"/>
+        <img src="https://skillicons.dev/icons?i=flask"/>
+        <img src="https://skillicons.dev/icons?i=django"/>
+        <img src="https://skillicons.dev/icons?i=fastapi"/>
         <img src="https://skillicons.dev/icons?i=selenium"/>
         <img src="https://skillicons.dev/icons?i=vite"/>
     </div>
