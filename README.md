@@ -19,20 +19,23 @@
 
 ### 🛠️ Skills & Tools
 
-#### 👨‍💻 Languages
+#### 👨‍💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,php,dart,go,cs,matlab" />
 
-#### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,django,flask,fastapi,selenium,vite" />
+#### 📚 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,bootstrap,django,flask,fastapi,selenium,vite" />
 
 #### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux,bash,githubactions" />
 
 #### 🛢️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-#### 🧰 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,postman,powershell,git,github,notion,obsidian,stackoverflow" />
+#### 🧰 Developer Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,postman,powershell,git,github" />
+
+#### 🗃️ Productivity & Documentation
+<img src="https://skillicons.dev/icons?i=notion,obsidian,stackoverflow,latex,md" />
 
 ---
 
