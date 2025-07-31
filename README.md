@@ -20,22 +20,80 @@
 ### 🛠️ Skills & Tools
 
 #### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,php,dart,go,cs,matlab" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+</div>
+
+
 
 #### 📚 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,bootstrap,django,flask,fastapi,selenium,vite" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=next" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+</div>
+
 
 #### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux,bash,githubactions" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=ansible" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</div>
+
 
 #### 🛢️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</div>
+
 
 #### 🧰 Developer Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,postman,powershell,git,github" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</div>
+
 
 #### 🗃️ Productivity & Documentation
-<img src="https://skillicons.dev/icons?i=notion,obsidian,stackoverflow,latex,md" />
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=obsidian" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=latex" />
+  <img src="https://skillicons.dev/icons?i=md" />
+</div>
+
 
 ---
 
