@@ -32,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=matlab" />
+<!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr" /> -->
 </div>
 
 
