@@ -62,6 +62,8 @@
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
 </div>
 
 
@@ -72,6 +74,12 @@
   <img src="https://skillicons.dev/icons?i=postgres" />
 </div>
 
+#### 🤖 Machine Learning
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</div>
 
 #### 🧰 Developer Tools & IDEs
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
