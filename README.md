@@ -77,9 +77,15 @@
 
 #### 🤖 Machine Learning
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://skillicons.dev/icons?i=tensorflow" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" />
+  
 </div>
 
 #### 🧰 Developer Tools & IDEs
@@ -102,6 +108,7 @@
   <img src="https://skillicons.dev/icons?i=latex" />
   <img src="https://skillicons.dev/icons?i=md" />
 </div>
+
 
 
 ---
