@@ -124,11 +124,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarksoulHP19&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=DarksoulHP19%20&theme=blueberry-duo&hide_border=true&fire=30DFEB&ring=4222EB&dates=80A8EB)](https://git.io/streak-stats)
