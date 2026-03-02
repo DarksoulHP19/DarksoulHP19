@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
+
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
@@ -9,18 +10,19 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **Cloud and DevOps Projects**
-- 🌱 Learning **AWS | Docker | Kubernetes | CI/CD | GCP**
+- 🔭 Currently working on **Cloud and DevOps projects**
+- 🌱 Learning **AWS, Docker, Kubernetes, CI/CD, GCP**
 - 💬 Ask me about **Python, JavaScript, C++, DevOps**
 - 📫 Reach me at: **harshjpatel1974@gmail.com**
 - 🌐 Visit my portfolio: [Click here](https://portfolio-darksoulhp19s-projects.vercel.app)
-
 ---
 
 ### 🛠️ Skills & Tools
 
 #### 👨‍💻 Programming Languages
+
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -88,6 +90,18 @@
   
 </div>
 
+#### 🤖 Agent Devlopment
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=prompts" />
+
+
+  
+</div>
+
 #### 🧰 Developer Tools & IDEs
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=vscode" />
@@ -117,6 +131,8 @@
 
 <a href="https://twitter.com/harsh190704" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/harsh-patel-4a13aa325/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
+
 <!-- <a href="https://instagram.com/harshpatel7719" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
 <!-- <a href="https://discordapp.com/users/774670437941772329" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a> -->
 
