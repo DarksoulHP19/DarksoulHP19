@@ -86,6 +86,7 @@
 ![langchain](https://go-skill-icons.vercel.app/api/icons?i=langchain)
 ![ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
 ![prompts](https://go-skill-icons.vercel.app/api/icons?i=prompts)
+![HuggingFace](https://go-skill-icons.vercel.app/api/icons?i=huggingface)
 
 #### 🧰 Developer Tools & IDEs
 
