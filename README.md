@@ -1,9 +1,8 @@
-# Hi 👋
+# Hi👋, Harsh Patel is here
 
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <h1>👨‍💻 Harsh Patel</h1>
   <h3>🚀 Cloud & DevOps Enthusiast | Full Stack Developer</h3>
   <img src="https://komarev.com/ghpvc/?username=DarksoulHP19&label=Profile%20views&color=blue&style=flat" alt="DarksoulHP19" />
 </div>
