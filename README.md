@@ -1,116 +1,107 @@
-# Hi👋, HP is here
+# Hey there, I'm Harsh Patel 👋
 
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <h3>🚀 Cloud & DevOps Enthusiast | Full Stack Developer</h3>
-  <img src="https://komarev.com/ghpvc/?username=DarksoulHP19&label=Profile%20views&color=blue&style=flat" alt="DarksoulHP19" />
+  <img src="https://komarev.com/ghpvc/?username=DarksoulHP19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+## 🚀 Full Stack Developer · Cloud & DevOps Enthusiast · AI/ML Explorer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-darksoulhp19s-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-4a13aa325/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh190704)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjpatel1974@gmail.com)
+
 </div>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Cloud and DevOps projects**
-- 🌱 Learning **AWS, Docker, Kubernetes, CI/CD, GCP**
-- 💬 Ask me about **Python, JavaScript, C++, DevOps**
-- 📫 Reach me at: <harshjpatel1974@gmail.com>
-- 🌐 Visit my portfolio: [Portfolio](https://portfolio-darksoulhp19s-projects.vercel.app)
+- 🔭 Currently building **Cloud & DevOps projects** and **AI-powered web applications**
+- 🌱 Deepening skills in **AWS · Docker · Kubernetes · CI/CD · GCP · Terraform**
+- 🤖 Exploring **LangChain · Ollama · HuggingFace · Agent workflows**
+- 💬 Ask me about **Python · JavaScript · DevOps · Full Stack Dev**
+- 📫 Reach me at: [harshjpatel1974@gmail.com](mailto:harshjpatel1974@gmail.com)
+- ⚡ Fun fact: I've spent more time setting up CI/CD than actually writing features.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-![python](https://skillicons.dev/icons?i=python)
-![js](https://skillicons.dev/icons?i=js)
-![cpp](https://skillicons.dev/icons?i=cpp)
-![c](https://skillicons.dev/icons?i=c)
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![php](https://skillicons.dev/icons?i=php)
-![dart](https://skillicons.dev/icons?i=dart)
-![go](https://skillicons.dev/icons?i=go)
-![cs](https://skillicons.dev/icons?i=cs)
-![matlab](https://skillicons.dev/icons?i=matlab)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Go](https://skillicons.dev/icons?i=go)
+![C#](https://skillicons.dev/icons?i=cs)
+![PHP](https://skillicons.dev/icons?i=php)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![MATLAB](https://skillicons.dev/icons?i=matlab)
 
-#### 📚 Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
-![react](https://skillicons.dev/icons?i=react)
-![next](https://skillicons.dev/icons?i=next)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![express](https://skillicons.dev/icons?i=express)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![django](https://skillicons.dev/icons?i=django)
-![flask](https://skillicons.dev/icons?i=flask)
-![fastapi](https://skillicons.dev/icons?i=fastapi)
-![selenium](https://skillicons.dev/icons?i=selenium)
-![vite](https://skillicons.dev/icons?i=vite)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Selenium](https://skillicons.dev/icons?i=selenium)
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-![aws](https://skillicons.dev/icons?i=aws)
-![gcp](https://skillicons.dev/icons?i=gcp)
-![docker](https://skillicons.dev/icons?i=docker)
-![kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![ansible](https://skillicons.dev/icons?i=ansible)
-![linux](https://skillicons.dev/icons?i=linux)
-![bash](https://skillicons.dev/icons?i=bash)
-![githubactions](https://skillicons.dev/icons?i=githubactions)
-![jenkins](https://skillicons.dev/icons?i=jenkins)
-![terraform](https://skillicons.dev/icons?i=terraform)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-#### 🛢️ Databases
+### 🛢️ Databases
 
-![mysql](https://skillicons.dev/icons?i=mysql)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-#### 🤖 Machine Learning
+### 🤖 AI / ML & Agent Development
 
-![numpy](https://go-skill-icons.vercel.app/api/icons?i=numpy)
-![pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
-![sklearn](https://skillicons.dev/icons?i=sklearn)
-![pytorch](https://skillicons.dev/icons?i=pytorch)
-![tensorflow](https://skillicons.dev/icons?i=tensorflow)
-![matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)
-![seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
-![streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
-
-#### 🤖 Agent Development
-
-![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
-![langchain](https://go-skill-icons.vercel.app/api/icons?i=langchain)
-![ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
-![prompts](https://go-skill-icons.vercel.app/api/icons?i=prompts)
+![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)
+![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
+![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)
+![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
+![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
+![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain)
+![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama)
 ![HuggingFace](https://go-skill-icons.vercel.app/api/icons?i=huggingface)
+![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n)
 
-#### 🧰 Developer Tools & IDEs
+### 🧰 Developer Tools
 
-![vscode](https://skillicons.dev/icons?i=vscode)
-![androidstudio](https://skillicons.dev/icons?i=androidstudio)
-![visualstudio](https://skillicons.dev/icons?i=visualstudio)
-![postman](https://skillicons.dev/icons?i=postman)
-![powershell](https://skillicons.dev/icons?i=powershell)
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-
-#### 🗃️ Productivity & Documentation
-
-![notion](https://skillicons.dev/icons?i=notion)
-![obsidian](https://skillicons.dev/icons?i=obsidian)
-![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)
-![latex](https://skillicons.dev/icons?i=latex)
-![md](https://skillicons.dev/icons?i=md)
-
----
-
-### 🌐 Connect with Me
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harsh190704)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harsh-patel-4a13aa325/)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Notion](https://skillicons.dev/icons?i=notion)
+![Obsidian](https://skillicons.dev/icons?i=obsidian)
+![LaTeX](https://skillicons.dev/icons?i=latex)
 
 ---
 
@@ -118,4 +109,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=DarksoulHP19&theme=blueberry-duo&hide_border=true&fire=30DFEB&ring=4222EB&dates=80A8EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=DarksoulHP19%20&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+- *"Code is poetry — and sometimes it actually deploys on the first try."* - DarksoulHP19
