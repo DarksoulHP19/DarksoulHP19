@@ -107,11 +107,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=DarksoulHP19%20&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
- <--! will be fixed -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact)
+-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarksoulHP19&theme=prussian&hide_border=true" alt="GitHub Streak" /></a>
  
  ---
 
