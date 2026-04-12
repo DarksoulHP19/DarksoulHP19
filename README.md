@@ -118,7 +118,6 @@
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 ![LaTeX](https://skillicons.dev/icons?i=latex)
 
-<!-- ---
 
 ## 🏆 GitHub Trophies
 
@@ -126,7 +125,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarksoulHP19&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div> -->
+</div>
 
 ---
 
@@ -138,13 +137,15 @@
   <img src="https://streak-stats.demolab.com?user=DarksoulHP19&theme=prussian&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<!-- ---
+<!--
 
 <img src="https://github-readme-stats.vercel.app/api?username=DarksoulHP19&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
+!-->
+
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
