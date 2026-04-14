@@ -119,6 +119,7 @@
 ![LaTeX](https://skillicons.dev/icons?i=latex)
 
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -127,6 +128,7 @@
 
 </div>
 
+!-->
 ---
 
 ## 📊 GitHub Stats
@@ -145,7 +147,12 @@
 
 ---
 
+<!--
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarksoulHP19&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+
+!-->
 
 </div>
 
