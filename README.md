@@ -1,6 +1,6 @@
 # Hey, I'm Harsh Patel 👋
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 
 
 <div align="center">
 
