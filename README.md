@@ -162,12 +162,13 @@
 
 </div>
 
----
+-----
+<!-- quote section -->
+
 
 <div align="center">
 
 <i>"Code is poetry  and sometimes it actually deploys on the first try."</i>
-
 <b> - DarksoulHP19</b>
 
 </div>
