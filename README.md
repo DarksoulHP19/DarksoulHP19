@@ -37,6 +37,7 @@
 - ⚡ Fun fact: I've spent more time setting up CI/CD than actually writing features.
 
 ---
+
 <!-- Tech section -->
 
 
